@@ -8,19 +8,19 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\quan\\.nuget\\packages\\": {}
+    "C:\\Users\\Admin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\c#\\TenThanhPho_TH2\\TenThanhPho_TH2.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\ThenThanhPho\\TenThanhPho_TH2.csproj",
       "projectName": "TenThanhPho_TH2",
-      "projectPath": "D:\\c#\\TenThanhPho_TH2\\TenThanhPho_TH2.csproj",
-      "packagesPath": "C:\\Users\\quan\\.nuget\\packages\\",
-      "outputPath": "D:\\c#\\TenThanhPho_TH2\\obj\\",
+      "projectPath": "C:\\Users\\Admin\\Desktop\\ThenThanhPho\\TenThanhPho_TH2.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Admin\\Desktop\\ThenThanhPho\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\quan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -64,7 +64,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
