@@ -1,0 +1,17 @@
+D:\c#\TenThanhPho_TH2\bin\Debug\net6.0-windows\TenThanhPho_TH2.exe
+D:\c#\TenThanhPho_TH2\bin\Debug\net6.0-windows\TenThanhPho_TH2.deps.json
+D:\c#\TenThanhPho_TH2\bin\Debug\net6.0-windows\TenThanhPho_TH2.runtimeconfig.json
+D:\c#\TenThanhPho_TH2\bin\Debug\net6.0-windows\TenThanhPho_TH2.dll
+D:\c#\TenThanhPho_TH2\bin\Debug\net6.0-windows\TenThanhPho_TH2.pdb
+D:\c#\TenThanhPho_TH2\obj\Debug\net6.0-windows\TenThanhPho_TH2.csproj.AssemblyReference.cache
+D:\c#\TenThanhPho_TH2\obj\Debug\net6.0-windows\TenThanhPho_TH2.Form1.resources
+D:\c#\TenThanhPho_TH2\obj\Debug\net6.0-windows\TenThanhPho_TH2.csproj.GenerateResource.cache
+D:\c#\TenThanhPho_TH2\obj\Debug\net6.0-windows\TenThanhPho_TH2.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\TenThanhPho_TH2\obj\Debug\net6.0-windows\TenThanhPho_TH2.AssemblyInfoInputs.cache
+D:\c#\TenThanhPho_TH2\obj\Debug\net6.0-windows\TenThanhPho_TH2.AssemblyInfo.cs
+D:\c#\TenThanhPho_TH2\obj\Debug\net6.0-windows\TenThanhPho_TH2.csproj.CoreCompileInputs.cache
+D:\c#\TenThanhPho_TH2\obj\Debug\net6.0-windows\TenThanhPho_TH2.dll
+D:\c#\TenThanhPho_TH2\obj\Debug\net6.0-windows\refint\TenThanhPho_TH2.dll
+D:\c#\TenThanhPho_TH2\obj\Debug\net6.0-windows\TenThanhPho_TH2.pdb
+D:\c#\TenThanhPho_TH2\obj\Debug\net6.0-windows\TenThanhPho_TH2.genruntimeconfig.cache
+D:\c#\TenThanhPho_TH2\obj\Debug\net6.0-windows\ref\TenThanhPho_TH2.dll

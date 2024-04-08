@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TenThanhPho_TH2/1.0.0": {
+        "runtime": {
+          "TenThanhPho_TH2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TenThanhPho_TH2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
